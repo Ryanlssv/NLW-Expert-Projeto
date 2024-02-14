@@ -5,4 +5,8 @@ Projeto Criado na NLW Expert onde o Projeto Consiste em Criar Um sistema de vota
 # Linguagem 
 - TyperScript
 
-# 
+# utilizado 
+- hoppscotch.io : Para Criar uma API para Nosso Projeto
+- Upstash: Um banco de dados sem servidor Para API Redis.
+- Prisma : Para a Criação das Nossas tabelas
+- Node.js : Para a criação do Nosso Serve Http 
